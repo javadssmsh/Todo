@@ -1,4 +1,4 @@
-package ir.javadsh.todomvvm
+package ir.javadsh.todomvvm.data
 
 import android.os.Parcelable
 import androidx.room.Entity
